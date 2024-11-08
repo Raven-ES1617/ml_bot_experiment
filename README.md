@@ -75,7 +75,7 @@ This API provides functionality to manage machine learning algorithms, train mod
   - `model_type` (string): Name of the registered model.
   - `model_params` (JSON): JSON object with parameters for the model.
 - **Sample Request:**
-  ```http
+  ```
   POST /train
   Content-Type: multipart/form-data
 

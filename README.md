@@ -1,4 +1,3 @@
-```markdown
 # API Documentation for Machine Learning Model Management and Prediction
 
 This API provides functionality to manage machine learning algorithms, train models, make predictions, and manage datasets. It includes endpoints for loading data, preprocessing, model training, and exporting predictions.

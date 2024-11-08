@@ -8,7 +8,7 @@ This API provides functionality to manage machine learning algorithms, train mod
 - **Description:** Displays the content of the README file if available, rendered as HTML.
 - **Method:** `GET`
 - **Sample Request:**
-  ```http
+  ```
   GET /
   ```
 
@@ -16,7 +16,7 @@ This API provides functionality to manage machine learning algorithms, train mod
 - **Description:** Returns a simple message to verify that the server is running.
 - **Method:** `GET`
 - **Sample Request:**
-  ```http
+  ```
   GET /test
   ```
 
@@ -24,7 +24,7 @@ This API provides functionality to manage machine learning algorithms, train mod
 - **Description:** Returns a list of all available API routes and supported methods.
 - **Method:** `GET`
 - **Sample Request:**
-  ```http
+  ```
   GET /routes
   ```
 
@@ -45,7 +45,7 @@ This API provides functionality to manage machine learning algorithms, train mod
 - **Description:** Returns a list of all registered algorithms.
 - **Method:** `GET`
 - **Sample Request:**
-  ```http
+  ```
   GET /algorithms
   ```
 
@@ -93,7 +93,7 @@ This API provides functionality to manage machine learning algorithms, train mod
 - **Description:** Returns a list of all trained models.
 - **Method:** `GET`
 - **Sample Request:**
-  ```http
+  ```
   GET /models
   ```
 
